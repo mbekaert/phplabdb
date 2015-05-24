@@ -1,0 +1,326 @@
+# English phpLabDB Translation
+# Copyright (c) 2003-2004 Michael Bekaert
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: $Id: phplabdb.po,v 1.6 2004/03/15 00:00:00 Exp $\n"
+"POT-Creation-Date: 2004-03-15 00:00+0100\n"
+"PO-Revision-Date: 2004-10-13 13:22+0100\n"
+"Last-Translator: \n"
+"Language-Team: English <phplabdb@enodis.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Navigation"
+msgstr "Site Navigation"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Database"
+msgstr "Database"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "About"
+msgstr "About"
+
+msgid "Bug report"
+msgstr "Bug report"
+
+msgid "Thank bug"
+msgstr "Thank you for taking the time to send us feedback. Your help - by reporting a bug or by making an enhancement suggestion - helps us to focus our improvement efforts. We read all bug report we receive and take what you have to report seriously. We truly value your input"
+
+msgid "Report bug"
+msgstr "Report bug"
+
+msgid "See bugs"
+msgstr "See every bug or suggestion made about phpLabDB Project"
+
+msgid "Browse bugs"
+msgstr "Browse bugs"
+
+msgid "powered by"
+msgstr "powered by"
+
+msgid "phplabdb_description"
+msgstr "is a Laboratory Information Management Systems (LIMS) for research laboratories. It is specifically designed for molecular biology labs. phpLabDB runs on a server and is accessed through a web browser. A web-interface lets the system administrator easily design new tables, which are completely integrated with phpLabDB. phpLabDB consists of a number of PHP scripts. It is developed using postgres and mysql as an SQL server. It has been tested on Linux (Suse, RedHat, Mandrake), Mac OS X and Windows 2000/XP"
+
+msgid "phpLabDB project"
+msgstr "phpLabDB project"
+
+msgid "The"
+msgstr "The"
+
+msgid "is hosted by"
+msgstr "is hosted by"
+
+msgid "Language Selector"
+msgstr "Language Selector"
+
+msgid "Choose a language:"
+msgstr "Choose a language (no other language available):"
+
+msgid "Set as default"
+msgstr "Set as default"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Password retriever"
+msgstr "Password retriever"
+
+msgid "System config"
+msgstr "System config"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Databases"
+msgstr "Databases"
+
+msgid "Plug-ins"
+msgstr "Plug-ins"
+
+msgid "Mods"
+msgstr "Mods"
+
+msgid "System configuration"
+msgstr "System configuration"
+
+msgid "Modification"
+msgstr "Modification"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Read-only parameters"
+msgstr "Read-only parameters"
+
+msgid "Configurable parameters"
+msgstr "Configurable parameters"
+
+msgid "Organisation Name"
+msgstr "Organisation Name"
+
+msgid "Organisation URL"
+msgstr "Organisation URL"
+
+msgid "Organisation Logo"
+msgstr "Organisation Logo"
+
+msgid "Welcome message"
+msgstr "Welcome message"
+
+msgid "Database Management"
+msgstr "Database Management"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Upload"
+msgstr "Upload"
+
+msgid "To upload "
+msgstr "To upload "
+
+msgid " will erase the data"
+msgstr " database will erase the data. This action should only be carried out to recover database"
+
+msgid "SQL file. (no more than "
+msgstr "Input file should be an SQL file. Use the downloaded file (no more than "
+
+msgid "SQL file"
+msgstr "SQL file"
+
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+msgid "Mods Management"
+msgstr "Mods Management"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Configuration"
+msgstr "Configuration"
+
+msgid "No mods"
+msgstr "No mods installed"
+
+msgid "Plug-ins Management"
+msgstr "Plug-ins Management"
+
+msgid "No plug-in"
+msgstr "No plug-in installed"
+
+msgid "Remove this user?"
+msgstr "Remove this user?"
+
+msgid "Users Management"
+msgstr "Users Management"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Type username:"
+msgstr "To modify feature or remove user, type username:"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Username/Login"
+msgstr "Username"
+
+msgid "Result"
+msgstr "Result"
+
+msgid "Results"
+msgstr "Results"
+
+msgid "to"
+msgstr "to"
+
+msgid "Modify"
+msgstr "Modify"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "No result"
+msgstr "No result"
+
+msgid "New user"
+msgstr "New user"
+
+msgid "To add user, just click"
+msgstr "To add user, just click"
+
+msgid "here"
+msgstr "here"
+
+msgid "New user added successfully"
+msgstr "New user added successfully"
+
+msgid "Inform all following information:"
+msgstr "Inform all following information:"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Email"
+msgstr "Email address"
+
+msgid "Power level"
+msgstr "Power level"
+
+msgid "Password 2"
+msgstr "Password <small>(confirm)</small>"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Update successfull"
+msgstr "Update successfull"
+
+msgid "Invalid informations"
+msgstr "Invalid informations"
+
+msgid "User deleted successfull"
+msgstr "User deleted successfull"
+
+msgid "Removing 'admin' account deny!"
+msgstr "Removing 'admin' account deny!"
+
+msgid "admin"
+msgstr "admin"
+
+msgid "Here's how you can log in at"
+msgstr "Here's how you can log in at"
+
+msgid "Passwords are case sensitive"
+msgstr "Passwords are case sensitive"
+
+msgid "If you did not request your password, please forward this email to"
+msgstr "If you did not request your password, please forward this email to"
+
+msgid "immediately"
+msgstr "immediately"
+
+msgid "Logged IP"
+msgstr "Logged IP"
+
+msgid "Forgot Your Password?"
+msgstr "Forgot Your Password?"
+
+msgid "You will received your password by email"
+msgstr "You will received your password by email"
+
+msgid "Type your username"
+msgstr "Type your username. We will send you by email the password for your account"
+
+msgid "Account on"
+msgstr "Account on"
+
+msgid "server"
+msgstr "server"
+
+msgid "You need a username and a password. Try"
+msgstr "You need a username and a password to access this server pages. If you have forgotten them, try the email"
+
+msgid "Or contact the"
+msgstr "If you have no account, please contact the"
+
+msgid "webmaster"
+msgstr "webmaster"
+
+msgid "Login to"
+msgstr "Login to"
+
+msgid "You are now logout from"
+msgstr "You are now logout from"
+
+msgid "Bye"
+msgstr "You need to re-enter username and password to access this server"
+
+msgid "Access Deny"
+msgstr "Access Deny"
+
+msgid "You are not authorized to access this server"
+msgstr "You are not authorized to access this server"
+
+msgid "name"
+msgstr "Name"
+
+msgid "url"
+msgstr "URL"
+
+msgid "logo"
+msgstr "Logo"
+
+msgid "welcome"
+msgstr "Welcome message"
+

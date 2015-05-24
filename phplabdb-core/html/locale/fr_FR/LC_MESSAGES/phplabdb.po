@@ -1,0 +1,326 @@
+# French phpLabDB Translation
+# Copyright (c) 2003-2004 Michael Bekaert
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: $Id: phplabdb.po,v 1.6 2004/03/15 00:00:00 Exp $\n"
+"POT-Creation-Date: 2004-03-15 00:00+0100\n"
+"PO-Revision-Date: 2004-03-15 00:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: French <phplabdb@enodis.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Logout"
+msgstr "D&eacute;connexion"
+
+msgid "Navigation"
+msgstr "Menu de navigation&nbsp;"
+
+msgid "Home"
+msgstr "Accueil"
+
+msgid "Database"
+msgstr "Base de donn&eacute;es"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "About"
+msgstr "A propos"
+
+msgid "Bug report"
+msgstr "Rapport d&#39;erreurs"
+
+msgid "Thank bug"
+msgstr "Merci de prendre le temps de nous envoyer vos remarques. Votre aide - en rapportant un bogue ou en faisant une suggestion de perfectionnement - nous permet de focaliser nos efforts d&#39;am&eacute;lioration. Nous lisons tout le rapport de bogue que nous recevons"
+
+msgid "Report bug"
+msgstr "Rapport bogue"
+
+msgid "See bugs"
+msgstr "Voir chacun des bogues ou des suggestions faites au sujet du projet de phpLabDB. <small><em>[anglais]</em></small>"
+
+msgid "Browse bugs"
+msgstr "Passez en revue les bogues"
+
+msgid "powered by"
+msgstr "powered by"
+
+msgid "phplabdb_description"
+msgstr " est un progiciel d&#39;applications pour laboratoires de recherche. Il est sp&eacute;cifiquement adapt&eacute; aux laboratoires de biologie mol&eacute;culaire. phpLabDB fonctionne sur un serveur et est consultable avec un navigateur web. L&#39;interface web permet de concevoir facilement de nouveaux plug-in, qui sont compl&egrave;tement int&eacute;gr&eacute;s &agrave; phpLabDB. phpLabDB se compose de scripts PHP et est d&eacute;velopp&eacute; pour utiliser un serveur SQL tel que postgreSQL ou MySQL. phpLabDB a &eacute;t&eacute; test&eacute; sur OS X, Linux (Suse, RedHat, Mandrake) et Windows 2000/XP"
+
+msgid "phpLabDB project"
+msgstr "projet phpLabDB"
+
+msgid "The"
+msgstr "Le"
+
+msgid "is hosted by"
+msgstr "est h&eacute;berg&eacute; par"
+
+msgid "Language Selector"
+msgstr "S&eacute;lecteur de langage"
+
+msgid "Choose a language:"
+msgstr "Choisissez votre langue (seuls ces langues sont actuellement disponibles)&nbsp;:"
+
+msgid "Set as default"
+msgstr "D&eacute;finir par d&eacute;faut"
+
+msgid "Submit"
+msgstr "Envoyer"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "Login"
+msgstr "Connexion"
+
+msgid "Password retriever"
+msgstr "Mot de pass perdu"
+
+msgid "System config"
+msgstr "Config syst&egrave;me"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "Databases"
+msgstr "Bases de donn&eacute;es"
+
+msgid "Plug-ins"
+msgstr "Plug-ins"
+
+msgid "Mods"
+msgstr "Mods"
+
+msgid "System configuration"
+msgstr "Configuration syst&egrave;me"
+
+msgid "Modification"
+msgstr "Modification"
+
+msgid "Clear"
+msgstr "R&eacute;tablir"
+
+msgid "Update"
+msgstr "Mise &agrave jour"
+
+msgid "Read-only parameters"
+msgstr "Param&egrave;tres en lecture seul"
+
+msgid "Configurable parameters"
+msgstr "Param&egrave;tres modifiables"
+
+msgid "Organisation Name"
+msgstr "Nom de l&#39;organisation"
+
+msgid "Organisation URL"
+msgstr "URL de l&#39;organisation"
+
+msgid "Organisation Logo"
+msgstr "Logo de l&#39;organisation"
+
+msgid "Welcome message"
+msgstr "Message de bienvenue"
+
+msgid "Database Management"
+msgstr "Gestion des bases de donn&eacute;es"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Download"
+msgstr "T&eacute;l&eacute;charger"
+
+msgid "Upload"
+msgstr "Mettre &agrave jour"
+
+msgid "To upload "
+msgstr "T&eacute;l&eacute;charger la base de donn&eacute;es "
+
+msgid " will erase the data"
+msgstr " effacera les donn&eacute;es. Cette action ne devrait seulement &ecirc;tre effectu&eacute;e que pour restaurer la base de donn&eacute;es"
+
+msgid "SQL file. (no more than "
+msgstr "Le fichier d&#39;entr&eacute; doit &ecirc;tre un fichier de SQL. Employez le fichier t&eacute;l&eacute;charg&eacute; (pas plus de "
+
+msgid "SQL file"
+msgstr "Fichier SQL"
+
+msgid "Are you sure?"
+msgstr "&Ecirc;tes vous s&ucirc;r&nbsp;?"
+
+msgid "Mods Management"
+msgstr "Gestion des Mods"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Configuration"
+msgstr "Configuration"
+
+msgid "No mods"
+msgstr "Aucun mods install&eacute;"
+
+msgid "Plug-ins Management"
+msgstr "Gestion des Plug-ins"
+
+msgid "No plug-in"
+msgstr "Aucun plug-in install&eacute;"
+
+msgid "Remove this user?"
+msgstr "Supprimer cet utilisateur ?"
+
+msgid "Users Management"
+msgstr "Gestion des utilisateurs"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Type username:"
+msgstr "Tapez le nom de l&#39;utilisateur que vous recherchez&nbsp;:"
+
+msgid "Username"
+msgstr "Nom d&#39;utilisateur"
+
+msgid "Username/Login"
+msgstr "Nom d'utilisateur"
+
+msgid "Result"
+msgstr "R&eacute;sultat"
+
+msgid "Results"
+msgstr "R&eacute;sultats"
+
+msgid "to"
+msgstr "&agrave;"
+
+msgid "Modify"
+msgstr "Modifier"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "No result"
+msgstr "Aucun r&eacute;sultat"
+
+msgid "New user"
+msgstr "Nouvel utilisateur"
+
+msgid "To add user, just click"
+msgstr "Pour ajouter un nouvel utilisateur cliquez"
+
+msgid "here"
+msgstr "ici"
+
+msgid "New user added successfully"
+msgstr "Nouvel utilisteur ajout&eacute; avec succ&egrave;s"
+
+msgid "Inform all following information:"
+msgstr "Remplissez toutes les informations suivantes&nbsp;:"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Power level"
+msgstr "Autorisation de modification"
+
+msgid "Password 2"
+msgstr "Mot de passe <small>(confirmation)</small>"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Update successfull"
+msgstr "Mise &agrave; jour effectu&eacute;e avec succ&egrave;s"
+
+msgid "Invalid informations"
+msgstr "Informations invalides"
+
+msgid "User deleted successfull"
+msgstr "Suppression de l&#39;utilisateur effectu&eacute;e avec succ&egrave;s"
+
+msgid "Removing 'admin' account deny!"
+msgstr "Suppression du compte 'admin' refus&eacute;e&nbsp;!"
+
+msgid "admin"
+msgstr "admin"
+
+msgid "Here's how you can log in at"
+msgstr "Voici comment vous pouvez ouvrir une session à"
+
+msgid "Passwords are case sensitive"
+msgstr "Les mots de passe sont sensibles à la casse"
+
+msgid "If you did not request your password, please forward this email to"
+msgstr "Si vous n'avez pas demandé votre mot de passe, prière faire suivre cet email à"
+
+msgid "immediately"
+msgstr "immédiatement"
+
+msgid "Logged IP"
+msgstr "IP d'origine"
+
+msgid "Forgot Your Password?"
+msgstr "Mot de passe perdu&nbsp;?"
+
+msgid "You will received your password by email"
+msgstr "Vous allez recevoir par e-mail votre <em>mot de passe</em>"
+
+msgid "Type your username"
+msgstr "Le syst&egrave;me vous enverra par e-mail le <em>mot de passe</em> correspondant &agrave; votre compte"
+
+msgid "Account on"
+msgstr "Compte sur le serveur"
+
+msgid "server"
+msgstr " "
+
+msgid "You need a username and a password. Try"
+msgstr "Vous avez besoin d&#39;un <em>nom d&#39;utilisateur</em> et d&#39;un <em>mot de passe</em> pour acc&eacute;der aux pages de ce serveur. Vous avez perdu votre mot de passe&nbsp;? Pas de panique, la rubrique"
+
+msgid "Or contact the"
+msgstr "vous indiquera la marche &agrave; suivre pour le retrouver. Si vous n&#39;avez aucun compte, contactez le"
+
+msgid "webmaster"
+msgstr "webmaster"
+
+msgid "Login to"
+msgstr "Connexion &agrave;"
+
+msgid "You are now logout from"
+msgstr "Vous avez &eacute;t&eacute; d&eacute;connect&eacute;s du serveur"
+
+msgid "Bye"
+msgstr "Il est n&eacute;cessaire que vous vous re-connectiez pour acc&eacute;der au serveur"
+
+msgid "Access Deny"
+msgstr "Acc&egrave;s refus&eacute;"
+
+msgid "You are not authorized to access this server"
+msgstr "Vous n&#39;avez pas l&#39;autorisation d&#39;acc&eacute;der &agrave; ce serveur"
+
+msgid "name"
+msgstr "Nom"
+
+msgid "url"
+msgstr "URL"
+
+msgid "logo"
+msgstr "Logo"
+
+msgid "welcome"
+msgstr "Message de bienvenue"
+

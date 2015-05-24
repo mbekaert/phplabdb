@@ -1,0 +1,395 @@
+# French phpLabDB::SeedDB Translation
+# Copyright (c) 2003-2004 Michael Bekaert
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: $Id: seeddb.po,v 1.2 2004/03/15 00:00:00 Exp $\n"
+"POT-Creation-Date: 2004-03-15 00:00+0100\n"
+"PO-Revision-Date: 2004-05-14 10:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: French <phplabdb@enodis.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "To access to the administation options click"
+msgstr "Pour acc&eacute;der &agrave; l&#39;interphase des options cliquez"
+
+msgid "here"
+msgstr "ici"
+
+msgid "Option management"
+msgstr "Gestion des rubriques"
+
+msgid "To add new"
+msgstr "Ajouter de nouvelles options à la rubrique"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Enter the name of the searched seed:"
+msgstr "Entrez le nom ou la r&eacute;f&eacute;rence de la graine recherch&eacute;e&nbsp;:"
+
+msgid "Reference"
+msgstr "R&eacute;f&eacute;rence"
+
+msgid "Vernacular name"
+msgstr "Nom vernaculaire"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Species"
+msgstr "Esp&egrave;ce"
+
+msgid "Cross type"
+msgstr "Croisement"
+
+msgid "Father"
+msgstr "P&egrave;re"
+
+msgid "Mother"
+msgstr "M&egrave;re"
+
+msgid "Prospection ref"
+msgstr "R&eacute;f. prospection"
+
+msgid "Locality"
+msgstr "Localit&eacute;"
+
+msgid "Ethnos group"
+msgstr "Groupe &eacute;thnique"
+
+msgid "Landscape nature"
+msgstr "Nature du terrain"
+
+msgid "Botanical form"
+msgstr "Forme botanique"
+
+msgid "Population size"
+msgstr "Taille de la population"
+
+msgid "Plant distribution"
+msgstr "Distribution des pieds"
+
+msgid "Weather/Culture type"
+msgstr "Type de culture"
+
+msgid "Plant precocity"
+msgstr "Pr&eacute;cocit&eacute;"
+
+msgid "Notes"
+msgstr "Descriptions"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "add"
+msgstr "plus"
+
+msgid "day"
+msgstr "jour"
+
+msgid "month"
+msgstr "mois"
+
+msgid "year"
+msgstr "ann&eacute;e"
+
+msgid "Warning:"
+msgstr "Attention&nbsp;:"
+
+msgid "Informed species"
+msgstr "L&#39;Esp&egrave;ce indiqu&eacute;e"
+
+msgid "is differente of calculated species"
+msgstr "est différente de celle estim&eacute;e"
+
+msgid "Informed species was used"
+msgstr "L&#39;Esp&egrave;ce que vous avez indiqu&eacute;e sera utilis&eacute;e"
+
+msgid "Update successfull"
+msgstr "Mise &agrave; jour effectu&eacute;e"
+
+msgid "Cross type and parents are not consistant"
+msgstr "Le type de croisement indiqu&eacute; n'est pas compatible avec les parents"
+
+msgid "Update"
+msgstr "Mise &agrave; jour"
+
+msgid "Prospection"
+msgstr "Prospection"
+
+msgid "Prospection date"
+msgstr "Date de prospection"
+
+msgid "pollen [reference or ID]"
+msgstr "Pollen [r&eacute;f&eacute;rence ou ID]"
+
+msgid "carry seed [reference or ID]"
+msgstr "Porte graine [r&eacute;f&eacute;rence ou ID]"
+
+msgid "Entry date"
+msgstr "Date de l&#39;entr&eacute;e"
+
+msgid "Seed number"
+msgstr "Nombre de graine"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "Altitude"
+msgstr "Altitude"
+
+msgid "Nature of the collecting site"
+msgstr "Nature du terrain"
+
+msgid "Distribution pattern"
+msgstr "Distribution des pieds"
+
+msgid "Local weather"
+msgstr "Type de culture"
+
+msgid "or"
+msgstr "ou"
+
+msgid "Invalid informations"
+msgstr "Informations invalide"
+
+msgid "Seed deleted successfull"
+msgstr "Graine supprim&eacute;e"
+
+msgid "Remove this entry?"
+msgstr "Supprimer cette entr&eacute;e&nbsp;?"
+
+msgid "Option for"
+msgstr "Option pour"
+
+msgid "Entry deleted"
+msgstr "Entr&eacute;e supprim&eacute;e"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Taxonomy ID"
+msgstr "Identificateur taxonomique"
+
+msgid "Lang"
+msgstr "Langue"
+
+msgid "Entry updated"
+msgstr "Modifications confirm&eacute;es"
+
+msgid "Entry added"
+msgstr "Ent&eacute;e ajout&eacute;e"
+
+msgid "Invalid description"
+msgstr "Description invalide"
+
+msgid "Existing options"
+msgstr "Valeurs disponibles"
+
+msgid "Modify"
+msgstr "Modifier"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Remove?"
+msgstr "Supprimer cette entr&eacute;e&nbsp;?"
+
+msgid "AND"
+msgstr "ET"
+
+msgid "OR"
+msgstr "OU"
+
+msgid "NOT"
+msgstr "NON"
+
+msgid "remove"
+msgstr "moins"
+
+msgid "Result"
+msgstr "R&eacute;sultats"
+
+msgid "Seeds found:"
+msgstr "Graines trouv&eacute,es&nbsp;:"
+
+msgid "Seed found:"
+msgstr "Graine trouv&eacute,e&nbsp;:"
+
+msgid "No result"
+msgstr "Aucun r&eacute;sultat"
+
+msgid "Tips/Help"
+msgstr "Affichage/Aide"
+
+msgid "Tips visible?"
+msgstr "Afficher les messages d'aide&nbsp;?"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Show barcode?"
+msgstr "Afficher les code-barre&nbsp;?"
+
+msgid "Search details"
+msgstr "D&eacute;tails de la recherche"
+
+msgid "F"
+msgstr "F"
+
+msgid "AF"
+msgstr "AF"
+
+msgid "BC"
+msgstr "BC"
+
+msgid "same mother"
+msgstr "même m&egrave;re"
+
+msgid "same father"
+msgstr "même p&egrave;re"
+
+msgid "Father (pollen)"
+msgstr "P&egrave;re (pollen)"
+
+msgid "Population / free union"
+msgstr "Population / union libre"
+
+msgid "Mother (carry seed)"
+msgstr "M&egrave;re (porte graine)"
+
+msgid "Cross date"
+msgstr "Date de croisement"
+
+msgid "m/d/Y"
+msgstr "d/m/Y"
+
+msgid "Lat:"
+msgstr "Lat:"
+
+msgid "Long:"
+msgstr "Long:"
+
+msgid "Alt:"
+msgstr "Alt:"
+
+msgid "Note"
+msgstr "Description"
+
+msgid "To add new seeds click"
+msgstr "Pour ajouter de nouvelles graines cliquez"
+
+msgid "To add new cross click"
+msgstr "Pour ajouter un nouveau croisement cliquez"
+
+msgid "To access to the administration interface click"
+msgstr "Pour acc&eacute;der &agrave; l&#39;interphase d&#39;administration cliquez"
+
+msgid "Tips:"
+msgstr "Aide&nbsp;:"
+
+msgid "Seed reference"
+msgstr "R&eacute;f&eacute;rence de la graine"
+
+msgid "New cross"
+msgstr "Nouveau croisement"
+
+msgid "Reference already exists!"
+msgstr "La r&eacute;f&eacute;rence existe d&eacute;j&agrave;nbsp;!"
+
+msgid "New cross added"
+msgstr "Nouvelle graine ajout&eacute;e"
+
+msgid "No reference!"
+msgstr "Aucune r&eacute;f&eacute;rence&nbsp;!"
+
+msgid "Missing data"
+msgstr "Donn&eacute;es manquantes"
+
+msgid "n.a."
+msgstr "n.a."
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Inform all following information:"
+msgstr "Remplissez toutes les informations suivantes&nbsp;:"
+
+msgid "free union (population)"
+msgstr "Union libre (popolation)"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Clear"
+msgstr "R&eacute;tablir"
+
+msgid "Next"
+msgstr "Suivent"
+
+msgid "New prospection seed"
+msgstr "Nouvelle prospection"
+
+msgid "Inform following information:"
+msgstr "Remplissez les informations suivantes&nbsp;:"
+
+msgid "needed information"
+msgstr "information obligatoire"
+
+msgid "details"
+msgstr "d&eacute;tails"
+
+msgid "run out"
+msgstr "Epuis&eacute;"
+
+msgid "seeds"
+msgstr "graines"
+
+msgid "seed"
+msgstr "graine"
+
+msgid "Species name"
+msgstr "Nom d&#39;Esp&egrave;ce"
+
+msgid "Cross type name"
+msgstr "Nom du type de croisement"
+
+msgid "Pollen reference"
+msgstr "R&eacute;f&eacute;rence du pollen"
+
+msgid "Carry seed reference"
+msgstr "R&eacute;f&eacute;rence du porte-graine"
+
+msgid "Prospection reference"
+msgstr "R&eacute;f&eacute;rence de la prospection"
+
+msgid "Locality name"
+msgstr "Nom de la Localit&eacute;"
+
+msgid "Ethnos group name"
+msgstr "Nom du groupe &eacute;thnique"
+
+msgid "Notes and remarques"
+msgstr "Notes et remarques"
+
+msgid "Internal reference / barcode"
+msgstr "R&eacute;f&eacute;rence interne"
+

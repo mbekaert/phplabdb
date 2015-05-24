@@ -1,0 +1,485 @@
+# French phpLabDB::PlasmidDB Translation
+# Copyright (c) 2004 Michael Bekaert
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: $Id: plasmiddb.po,v 1.0 2004/03/30 00:00:00 Exp $\n"
+"POT-Creation-Date: 2004-03-30 00:00+0100\n"
+"PO-Revision-Date: 2004-05-07 17:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: English <phplabdb@enodis.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Reverse oligonuleotides found:"
+msgstr "Reverse oligonuleotides found:"
+
+msgid "Reverse oligonuleotide found:"
+msgstr "Reverse oligonuleotide found:"
+
+msgid "Forward oligonuleotides found:"
+msgstr "Forward oligonuleotides found:"
+
+msgid "Forward oligonuleotide found:"
+msgstr "Forward oligonuleotide found:"
+
+msgid "Position invalide!"
+msgstr "Position invalide!"
+
+msgid "Map"
+msgstr "Map"
+
+msgid "bp"
+msgstr "bp"
+
+msgid "Markers:"
+msgstr "Markers:"
+
+msgid "Name:"
+msgstr "Name:"
+
+msgid "Start:"
+msgstr "Start:"
+
+msgid "Finish:"
+msgstr "Finish:"
+
+msgid "Fill-color:"
+msgstr "Fill-color:"
+
+msgid "Aqua"
+msgstr "Aqua"
+
+msgid "Black"
+msgstr "Black"
+
+msgid "Blue"
+msgstr "Blue"
+
+msgid "Fuschia"
+msgstr "Fuschia"
+
+msgid "Gray"
+msgstr "Gray"
+
+msgid "Green"
+msgstr "Green"
+
+msgid "Lime"
+msgstr "Lime"
+
+msgid "Maroon"
+msgstr "Maroon"
+
+msgid "Navy"
+msgstr "Navy"
+
+msgid "Olive"
+msgstr "Olive"
+
+msgid "Purple"
+msgstr "Purple"
+
+msgid "Red"
+msgstr "Red"
+
+msgid "Silver"
+msgstr "Silver"
+
+msgid "Teal"
+msgstr "Teal"
+
+msgid "Yellow"
+msgstr "Yellow"
+
+msgid "Line Thickness:"
+msgstr "Line Thickness:"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Enzymes:"
+msgstr "Enzymes:"
+
+msgid "Position:"
+msgstr "Position:"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Map cleaned"
+msgstr "Map cleaned"
+
+msgid "Close the windows"
+msgstr "Close the windows"
+
+msgid "Sequence"
+msgstr "Sequence"
+
+msgid "Sequence length:"
+msgstr "Sequence length:"
+
+msgid "length given:"
+msgstr "length given:"
+
+msgid "New length:"
+msgstr "New length:"
+
+msgid "Sequence cleaned"
+msgstr "Sequence cleaned"
+
+msgid "Search is empty!"
+msgstr "Search is empty!"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "To access to the administation options click"
+msgstr "To access to the administation options click"
+
+msgid "here"
+msgstr "here"
+
+msgid "Option management"
+msgstr "Option management"
+
+msgid "To add new"
+msgstr "To add new"
+
+msgid "Selection"
+msgstr "Selection"
+
+msgid "Replication"
+msgstr "Replication"
+
+msgid "Preparation"
+msgstr "Preparation"
+
+msgid "Conditioning"
+msgstr "Conditioning"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Enter the name of the searched plasmid, or a part of its sequence:"
+msgstr "Enter the name of the searched plasmid, or a part of its sequence:"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Alias"
+msgstr "Alias"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "day"
+msgstr "day"
+
+msgid "month"
+msgstr "month"
+
+msgid "year"
+msgstr "year"
+
+msgid "Plasmid removed"
+msgstr "Plasmid removed"
+
+msgid "Prototype removed"
+msgstr "Prototype removed"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Prototype"
+msgstr "Prototype"
+
+msgid "Rank"
+msgstr "Rank"
+
+msgid "place on the box"
+msgstr "place on the box"
+
+msgid "other"
+msgstr "other"
+
+msgid "Product concentration"
+msgstr "Product concentration"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "or"
+msgstr "or"
+
+msgid "The place"
+msgstr "The place"
+
+msgid "is already used by"
+msgstr "is already used by"
+
+msgid "Conditioning must be specified!"
+msgstr "Conditioning must be specified!"
+
+msgid "Plasmid updated"
+msgstr "Plasmid updated"
+
+msgid "Unable to open database!"
+msgstr "Unable to open database!"
+
+msgid "A box and rank must be provided!"
+msgstr "A box and rank must be provided!"
+
+msgid "plasmid/vector alias or short name"
+msgstr "plasmid/vector alias or short name"
+
+msgid "Length"
+msgstr "Length"
+
+msgid "length in nucleotides"
+msgstr "length in nucleotides"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Circular plasmid/vector"
+msgstr "Circular plasmid/vector"
+
+msgid "circular"
+msgstr "circular"
+
+msgid "Linear plasmid/vector"
+msgstr "Linear plasmid/vector"
+
+msgid "linear"
+msgstr "linear"
+
+msgid "Nucleic Acid"
+msgstr "Nucleic Acid"
+
+msgid "DNA"
+msgstr "DNA"
+
+msgid "RNA"
+msgstr "RNA"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Ascendance"
+msgstr "Ascendance"
+
+msgid "PubMed IDs"
+msgstr "PubMed IDs"
+
+msgid "Selection and Replication"
+msgstr "Selection and Replication"
+
+msgid "The alias"
+msgstr "The alias"
+
+msgid "is already used!"
+msgstr "is already used!"
+
+msgid "Prototype updated"
+msgstr "Prototype updated"
+
+msgid "Invalid data"
+msgstr "Invalid data"
+
+msgid "Remove this entry?"
+msgstr "Remove this entry?"
+
+msgid "Option for"
+msgstr "Option for"
+
+msgid "Entry deleted"
+msgstr "Entry deleted"
+
+msgid "Reference"
+msgstr "Reference"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Lang"
+msgstr "Lang"
+
+msgid "Entry updated"
+msgstr "Entry updated"
+
+msgid "Entry added"
+msgstr "Entry added"
+
+msgid "Invalid description"
+msgstr "Invalid description"
+
+msgid "Existing options"
+msgstr "Existing options"
+
+msgid "Modify"
+msgstr "Modify"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "New"
+msgstr "New"
+
+msgid "Remove this plasmid?"
+msgstr "Remove this plasmid?"
+
+msgid "Remove this prototype and all associted plasmids?"
+msgstr "Remove this prototype and all associted plasmids?"
+
+msgid "Result"
+msgstr "Result"
+
+msgid "Plasmids found:"
+msgstr "Plasmids found:"
+
+msgid "Plasmid found:"
+msgstr "Plasmid found:"
+
+msgid "Ready?"
+msgstr "Ready?"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "No result"
+msgstr "No result"
+
+msgid "Tips/Help"
+msgstr "Tips/Help"
+
+msgid "Show barcode?"
+msgstr "Show barcode?"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "Right primer minimum lenght?"
+msgstr "Right primer minimum lenght?"
+
+msgid "Search details"
+msgstr "Search details"
+
+msgid "Circular"
+msgstr "Circular"
+
+msgid "Linear"
+msgstr "Linear"
+
+msgid "Creation date"
+msgstr "Creation date"
+
+msgid "m/d/Y"
+msgstr "m/d/Y"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "Primer"
+msgstr "Primer"
+
+msgid "Find primer from OligoDB"
+msgstr "Find primer from OligoDB"
+
+msgid "To add new plasmid click"
+msgstr "To add new plasmid click"
+
+msgid "To access to the administration interface click"
+msgstr "To access to the administration interface click"
+
+msgid "There is no name!"
+msgstr "There is no name!"
+
+msgid "New plasmid"
+msgstr "New plasmid"
+
+msgid "already exists and will be not modified!"
+msgstr "already exists and will be not modified!"
+
+msgid "Inform all following information:"
+msgstr "Inform all following information:"
+
+msgid "needed information"
+msgstr "needed information"
+
+msgid "Last place occupied: box"
+msgstr "Last place occupied: box"
+
+msgid "rank"
+msgstr "rank"
+
+msgid "Box and rank"
+msgstr "Box and rank"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "The prototype"
+msgstr "The prototype"
+
+msgid "is also a name!"
+msgstr "is also a name!"
+
+msgid "An organism must be selected!"
+msgstr "An organism must be selected!"
+
+msgid "Ascendant"
+msgstr "Ascendant"
+
+msgid "New plasmid added"
+msgstr "New plasmid added"
+
+msgid "Parental plasmid/vector"
+msgstr "Parental plasmid/vector"
+
+msgid "Local Storage"
+msgstr "Local Storage"
+
+msgid "Association"
+msgstr "Association"
+
+msgid "PCR amplification"
+msgstr "PCR amplification"
+
+msgid "Identity"
+msgstr "Identity"
+
+msgid "Position (W)"
+msgstr "Position (W)"
+
+msgid "See?"
+msgstr "See?"
+
+msgid "details"
+msgstr "details"
+
+msgid "Alignment"
+msgstr "Alignment"
+
+msgid "Oligo"
+msgstr "Oligo"
+
+msgid "Seq"
+msgstr "Seq"
+
+msgid "Circ./Lin."
+msgstr "Circ./Lin."
+
+msgid "Release"
+msgstr "Release"
+

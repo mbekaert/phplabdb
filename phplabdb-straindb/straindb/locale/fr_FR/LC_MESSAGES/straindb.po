@@ -1,0 +1,257 @@
+# French phpLabDB::StrainDB Translation
+# Copyright (c) 2004 Michael Bekaert
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: $Id: straindb.po,v 1.0 2004/03/30 00:00:00 Exp $\n"
+"POT-Creation-Date: 2004-03-30 00:00+0100\n"
+"PO-Revision-Date: 2004-10-08 11:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: French <phplabdb@enodis.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Search is empty!"
+msgstr "La recherche est vide !"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "To access to the administation options click"
+msgstr "Pour acc&eacute;der &agrave; l&#39;interphase des options cliquez"
+
+msgid "here"
+msgstr "ici"
+
+msgid "Option management"
+msgstr "Gestion des rubriques"
+
+msgid "To add/remove species click"
+msgstr "Pour ajouter/supprimer une esp&egrave;ce cliquez"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Enter the name of the searched strain:"
+msgstr "Entrez le nom de la souche recherch&eacute;e&nbsp;:"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Species"
+msgstr "Esp&egrave;ce"
+
+msgid "Box"
+msgstr "Bo&icircte"
+
+msgid "Strain origine"
+msgstr "Origine de la souche"
+
+msgid "Plasmid"
+msgstr "Plasmide"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "day"
+msgstr "jour"
+
+msgid "month"
+msgstr "mois"
+
+msgid "year"
+msgstr "ann&eacute;e"
+
+msgid "Update"
+msgstr "Mise &agrave; jour"
+
+msgid "Strain removed"
+msgstr "Souche supprim&eacute;e"
+
+msgid "New strain added"
+msgstr "Nouvelle souche ajout&eacute;e"
+
+msgid "The strain already exists in box"
+msgstr "La souche existe d&eacute;j&agrave; dans la bo&icirc;te"
+
+msgid "rank"
+msgstr "rang"
+
+msgid "The place"
+msgstr "La position"
+
+msgid "is already used by"
+msgstr "est d&eacute;j&agrave; occup&eacute;e par"
+
+msgid "Missing data!"
+msgstr "Donn&eacute;es manquantes"
+
+msgid "Inform following information:"
+msgstr "Remplissez les informations suivantes&nbsp;:"
+
+msgid "needed information"
+msgstr "information obligatoire"
+
+msgid "Strain name"
+msgstr "Nom de la souche"
+
+msgid "Rank"
+msgstr "Rang"
+
+msgid "place on the box"
+msgstr "position dans la bo&icirc;te"
+
+msgid "Ascendance"
+msgstr "Ascendance"
+
+msgid "other"
+msgstr "autre"
+
+msgid "Phenotype"
+msgstr "Ph&eacute;notype"
+
+msgid "Genotype"
+msgstr "G&eacute;notype"
+
+msgid "Ploidy"
+msgstr "Plo&iuml;die"
+
+msgid "Medium"
+msgstr "Milieu"
+
+msgid "medium"
+msgstr "milieu de culture"
+
+msgid "PubMed IDs"
+msgstr "Ref. PubMed"
+
+msgid "Clear"
+msgstr "R&eacute;tablir"
+
+msgid "or"
+msgstr "ou"
+
+msgid "Remove this entry?"
+msgstr "Supprimer cette entr&eacute;e ?"
+
+msgid "Add/Remove species"
+msgstr "Ajouter/Supprimer une esp&egrave;ce"
+
+msgid "Entry deleted"
+msgstr "Entr&eacute;e supprim&eacute;e"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Taxonomy ID"
+msgstr "Identificateur taxonomique"
+
+msgid "Entry updated"
+msgstr "Entr&eacute; mise &agrave; jour"
+
+msgid "Invalid description"
+msgstr "Description invalide"
+
+msgid "Entry added"
+msgstr "Entr&eacute;e ajout&eacute;e"
+
+msgid "Existing options"
+msgstr "Valeurs disponibles"
+
+msgid "Modify"
+msgstr "Modifier"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Remove?"
+msgstr "Supprimer ?"
+
+msgid "Strain origin"
+msgstr "Origine de le souche"
+
+msgid "Result"
+msgstr "R&eacute;sultats"
+
+msgid "Strains found:"
+msgstr "Souches trouv&eacute;es&nbsp;:"
+
+msgid "Strain found:"
+msgstr "Souche trouv&eacute;e&nbsp;:"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "No result"
+msgstr "Aucun r&eacute;sultat"
+
+msgid "Tips/Help"
+msgstr "Affichage/Aide"
+
+msgid "Show barcode?"
+msgstr "Afficher les code-barre&nbsp;?"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Search details"
+msgstr "D&eacute;tails de la recherche"
+
+msgid "Date of storage"
+msgstr "Date de stockage"
+
+msgid "m/d/Y"
+msgstr "d/m/Y"
+
+msgid "Place"
+msgstr "Position"
+
+msgid "PMID"
+msgstr "PMID"
+
+msgid "To add new strain click"
+msgstr "Pour ajouter une nouvelle souche cliquez"
+
+msgid "To access to the administration interface click"
+msgstr "Pour acc&eacute;der &agrave; l&#39;interphase d&#39;administration cliquez"
+
+msgid "There is no name!"
+msgstr "Il n'y a pas de nom !"
+
+msgid "Box and rank"
+msgstr "Bo&icircte et rang"
+
+msgid "Ascendant"
+msgstr "Ascendant"
+
+msgid "Inform all following information:"
+msgstr "Remplissez toutes les informations suivantes&nbsp;:"
+
+msgid "Last place occupied: box"
+msgstr "Deni&egrave;re place occup&eacute;e&nbsp;: bo&icirc;te"
+
+msgid "Parental strain"
+msgstr "Souche parentale"
+
+msgid "Next"
+msgstr "Suivent"
+
+msgid "details"
+msgstr "d&eacute;tails"
+

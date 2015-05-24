@@ -1,0 +1,257 @@
+# French phpLabDB::StrainDB Translation
+# Copyright (c) 2004 Michael Bekaert
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: $Id: straindb.po,v 1.0 2004/03/30 00:00:00 Exp $\n"
+"POT-Creation-Date: 2004-03-30 00:00+0100\n"
+"PO-Revision-Date: 2004-03-23 15:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: English <phplabdb@enodis.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Search is empty!"
+msgstr "Search is empty!"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "To access to the administation options click"
+msgstr "To access to the administation options click"
+
+msgid "here"
+msgstr "here"
+
+msgid "Option management"
+msgstr "Option management"
+
+msgid "To add/remove species click"
+msgstr "To add/remove species click"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Enter the name of the searched strain:"
+msgstr "Enter the name of the searched strain:"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Species"
+msgstr "Species"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Strain origine"
+msgstr "Strain origine"
+
+msgid "Plasmid"
+msgstr "Plasmid"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "day"
+msgstr "day"
+
+msgid "month"
+msgstr "month"
+
+msgid "year"
+msgstr "year"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Strain removed"
+msgstr "Strain removed"
+
+msgid "New strain added"
+msgstr "New strain added"
+
+msgid "The strain already exists in box"
+msgstr "The strain already exists in box"
+
+msgid "rank"
+msgstr "rank"
+
+msgid "The place"
+msgstr "The place"
+
+msgid "is already used by"
+msgstr "is already used by"
+
+msgid "Missing data!"
+msgstr "Missing data!"
+
+msgid "Inform following information:"
+msgstr "Inform following information:"
+
+msgid "needed information"
+msgstr "needed information"
+
+msgid "Strain name"
+msgstr "Strain name"
+
+msgid "Rank"
+msgstr "Rank"
+
+msgid "place on the box"
+msgstr "place on the box"
+
+msgid "Ascendance"
+msgstr "Ascendance"
+
+msgid "other"
+msgstr "other"
+
+msgid "Phenotype"
+msgstr "Phenotype"
+
+msgid "Genotype"
+msgstr "Genotype"
+
+msgid "Ploidy"
+msgstr "Ploidy"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "medium"
+msgstr "medium"
+
+msgid "PubMed IDs"
+msgstr "PubMed IDs"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "or"
+msgstr "or"
+
+msgid "Remove this entry?"
+msgstr "Remove this entry?"
+
+msgid "Add/Remove species"
+msgstr "Add/Remove species"
+
+msgid "Entry deleted"
+msgstr "Entry deleted"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Taxonomy ID"
+msgstr "Taxonomy ID"
+
+msgid "Entry updated"
+msgstr "Entry updated"
+
+msgid "Invalid description"
+msgstr "Invalid description"
+
+msgid "Entry added"
+msgstr "Entry added"
+
+msgid "Existing options"
+msgstr "Existing options"
+
+msgid "Modify"
+msgstr "Modify"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "New"
+msgstr "New"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Remove?"
+msgstr "Remove?"
+
+msgid "Strain origin"
+msgstr "Strain origin"
+
+msgid "Result"
+msgstr "Result"
+
+msgid "Strains found:"
+msgstr "Strains found:"
+
+msgid "Strain found:"
+msgstr "Strain found:"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "No result"
+msgstr "No result"
+
+msgid "Tips/Help"
+msgstr "Tips/Help"
+
+msgid "Show barcode?"
+msgstr "Show barcode?"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "Search details"
+msgstr "Search details"
+
+msgid "Date of storage"
+msgstr "Date of storage"
+
+msgid "m/d/Y"
+msgstr "m/d/Y"
+
+msgid "Place"
+msgstr "Place"
+
+msgid "PMID"
+msgstr "PMID"
+
+msgid "To add new strain click"
+msgstr "To add new strain click"
+
+msgid "To access to the administration interface click"
+msgstr "To access to the administration interface click"
+
+msgid "There is no name!"
+msgstr "There is no name!"
+
+msgid "Box and rank"
+msgstr "Box and rank"
+
+msgid "Ascendant"
+msgstr "Ascendant"
+
+msgid "Inform all following information:"
+msgstr "Inform all following information:"
+
+msgid "Last place occupied: box"
+msgstr "Last place occupied: box"
+
+msgid "Parental strain"
+msgstr "Parental strain"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "details"
+msgstr "details"
+

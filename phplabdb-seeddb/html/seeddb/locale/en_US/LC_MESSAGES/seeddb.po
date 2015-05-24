@@ -1,0 +1,395 @@
+# English phpLabDB::SeedDB Translation
+# Copyright (c) 2003-2004 Michael Bekaert
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: $Id: seeddb.po,v 1.2 2004/03/15 00:00:00 Exp $\n"
+"POT-Creation-Date: 2004-03-15 00:00+0100\n"
+"PO-Revision-Date: 2004-05-14 10:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: English <phplabdb@enodis.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "To access to the administation options click"
+msgstr "To access to the administation options click"
+
+msgid "here"
+msgstr "here"
+
+msgid "Option management"
+msgstr "Option management"
+
+msgid "To add new"
+msgstr "To add new"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Enter the name of the searched seed:"
+msgstr "Enter the name of the searched seed:"
+
+msgid "Reference"
+msgstr "Reference"
+
+msgid "Vernacular name"
+msgstr "Vernacular name"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Species"
+msgstr "Species"
+
+msgid "Cross type"
+msgstr "Cross type"
+
+msgid "Father"
+msgstr "Father"
+
+msgid "Mother"
+msgstr "Mother"
+
+msgid "Prospection ref"
+msgstr "Prospection ref"
+
+msgid "Locality"
+msgstr "Locality"
+
+msgid "Ethnos group"
+msgstr "Ethnos group"
+
+msgid "Landscape nature"
+msgstr "Landscape nature"
+
+msgid "Botanical form"
+msgstr "Botanical form"
+
+msgid "Population size"
+msgstr "Population size"
+
+msgid "Plant distribution"
+msgstr "Plant distribution"
+
+msgid "Weather/Culture type"
+msgstr "Weather/Culture type"
+
+msgid "Plant precocity"
+msgstr "Plant precocity"
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "add"
+msgstr "add"
+
+msgid "day"
+msgstr "day"
+
+msgid "month"
+msgstr "month"
+
+msgid "year"
+msgstr "year"
+
+msgid "Warning:"
+msgstr "Warning:"
+
+msgid "Informed species"
+msgstr "Informed species"
+
+msgid "is differente of calculated species"
+msgstr "is differente of calculated species"
+
+msgid "Informed species was used"
+msgstr "Informed species was used"
+
+msgid "Update successfull"
+msgstr "Update successfull"
+
+msgid "Cross type and parents are not consistant"
+msgstr "Cross type and parents are not consistant"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Prospection"
+msgstr "Prospection"
+
+msgid "Prospection date"
+msgstr "Prospection date"
+
+msgid "pollen [reference or ID]"
+msgstr "pollen [reference or ID]"
+
+msgid "carry seed [reference or ID]"
+msgstr "carry seed [reference or ID]"
+
+msgid "Entry date"
+msgstr "Entry date"
+
+msgid "Seed number"
+msgstr "Seed number"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "Altitude"
+msgstr "Altitude"
+
+msgid "Nature of the collecting site"
+msgstr "Nature of the collecting site"
+
+msgid "Distribution pattern"
+msgstr "Distribution pattern"
+
+msgid "Local weather"
+msgstr "Local weather"
+
+msgid "or"
+msgstr "or"
+
+msgid "Invalid informations"
+msgstr "Invalid informations"
+
+msgid "Seed deleted successfull"
+msgstr "Seed deleted successfull"
+
+msgid "Remove this entry?"
+msgstr "Remove this entry?"
+
+msgid "Option for"
+msgstr "Option for"
+
+msgid "Entry deleted"
+msgstr "Entry deleted"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Taxonomy ID"
+msgstr "Taxonomy ID"
+
+msgid "Lang"
+msgstr "Lang"
+
+msgid "Entry updated"
+msgstr "Entry updated"
+
+msgid "Entry added"
+msgstr "Entry added"
+
+msgid "Invalid description"
+msgstr "Invalid description"
+
+msgid "Existing options"
+msgstr "Existing options"
+
+msgid "Modify"
+msgstr "Modify"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "New"
+msgstr "New"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Remove?"
+msgstr "Remove?"
+
+msgid "AND"
+msgstr "AND"
+
+msgid "OR"
+msgstr "OR"
+
+msgid "NOT"
+msgstr "NOT"
+
+msgid "remove"
+msgstr "remove"
+
+msgid "Result"
+msgstr "Result"
+
+msgid "Seeds found:"
+msgstr "Seeds found:"
+
+msgid "Seed found:"
+msgstr "Seed found:"
+
+msgid "No result"
+msgstr "No result"
+
+msgid "Tips/Help"
+msgstr "Tips/Help"
+
+msgid "Tips visible?"
+msgstr "Tips visible?"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "Show barcode?"
+msgstr "Show barcode?"
+
+msgid "Search details"
+msgstr "Search details"
+
+msgid "F"
+msgstr "F"
+
+msgid "AF"
+msgstr "AF"
+
+msgid "BC"
+msgstr "BC"
+
+msgid "same mother"
+msgstr "same mother"
+
+msgid "same father"
+msgstr "same father"
+
+msgid "Father (pollen)"
+msgstr "Father (pollen)"
+
+msgid "Population / free union"
+msgstr "Population / free union"
+
+msgid "Mother (carry seed)"
+msgstr "Mother (carry seed)"
+
+msgid "Cross date"
+msgstr "Cross date"
+
+msgid "m/d/Y"
+msgstr "m/d/Y"
+
+msgid "Lat:"
+msgstr "Lat:"
+
+msgid "Long:"
+msgstr "Long:"
+
+msgid "Alt:"
+msgstr "Alt:"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "To add new seeds click"
+msgstr "To add new seeds click"
+
+msgid "To add new cross click"
+msgstr "To add new cross click"
+
+msgid "To access to the administration interface click"
+msgstr "To access to the administration interface click"
+
+msgid "Tips:"
+msgstr "Tips:"
+
+msgid "Seed reference"
+msgstr "Seed reference"
+
+msgid "New cross"
+msgstr "New cross"
+
+msgid "Reference already exists!"
+msgstr "Reference already exists!"
+
+msgid "New cross added"
+msgstr "New cross added"
+
+msgid "No reference!"
+msgstr "No reference!"
+
+msgid "Missing data"
+msgstr "Missing data"
+
+msgid "n.a."
+msgstr "n.a."
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Inform all following information:"
+msgstr "Inform all following information:"
+
+msgid "free union (population)"
+msgstr "free union (population)"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "New prospection seed"
+msgstr "New prospection seed"
+
+msgid "Inform following information:"
+msgstr "Inform following information:"
+
+msgid "needed information"
+msgstr "needed information"
+
+msgid "details"
+msgstr "details"
+
+msgid "run out"
+msgstr "run out"
+
+msgid "seeds"
+msgstr "seeds"
+
+msgid "seed"
+msgstr "seed"
+
+msgid "Species name"
+msgstr "Species name"
+
+msgid "Cross type name"
+msgstr "Cross type name"
+
+msgid "Pollen reference"
+msgstr "Pollen reference"
+
+msgid "Carry seed reference"
+msgstr "Carry seed reference"
+
+msgid "Prospection reference"
+msgstr "Prospection reference"
+
+msgid "Locality name"
+msgstr "Locality name"
+
+msgid "Ethnos group name"
+msgstr "Ethnos group name"
+
+msgid "Notes and remarques"
+msgstr "Notes and remarques"
+
+msgid "Internal reference / barcode"
+msgstr "Internal reference / barcode"
+

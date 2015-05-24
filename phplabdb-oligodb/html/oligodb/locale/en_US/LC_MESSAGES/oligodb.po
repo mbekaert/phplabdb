@@ -1,0 +1,304 @@
+# English phpLabDB::OligoDB Translation
+# Copyright (c) 2003-2005 Michael Bekaert
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: $Id: oligodb.po,v 1.4.4 2005/01/20 00:00:00 Exp $\n"
+"POT-Creation-Date: 2004-03-15 00:00+0100\n"
+"PO-Revision-Date: 2005-01-20 00:00+0100\n"
+"Language-Team: English <phplabdb@enodis.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Search is empty!"
+msgstr "Search is empty!"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "To access to the administation options click"
+msgstr "To access to the administation options click"
+
+msgid "here"
+msgstr "here"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Sequence"
+msgstr "Sequence"
+
+msgid "Date of synthesis"
+msgstr "Date of synthesis"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "day of synthesis"
+msgstr "day of synthesis"
+
+msgid "month of synthesis"
+msgstr "month of synthesis"
+
+msgid "year of synthesis"
+msgstr "year of synthesis"
+
+msgid "Remove this oligonucleotide?"
+msgstr "Remove this oligonucleotide?"
+
+msgid "Modification"
+msgstr "Modification"
+
+msgid "The place"
+msgstr "The place"
+
+msgid "is already used by"
+msgstr "is already used by"
+
+msgid "Modifications confirmed"
+msgstr "Modifications confirmed"
+
+msgid "Update error"
+msgstr "Update error"
+
+msgid "Suppression confirmed"
+msgstr "Suppression confirmed"
+
+msgid "Oligonucleotide name (read only)"
+msgstr "Oligonucleotide name (read only)"
+
+msgid "Oligonucleotide sequence"
+msgstr "Oligonucleotide sequence"
+
+msgid "Rank"
+msgstr "Rank"
+
+msgid "Place on the box"
+msgstr "Place on the box"
+
+msgid "Comment"
+msgstr "Comment"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Oligonucleotide unknown!"
+msgstr "Oligonucleotide unknown!"
+
+msgid "Remove this association?"
+msgstr "Remove this association?"
+
+msgid "Association modification"
+msgstr "Association modification"
+
+msgid "Modification confirmed"
+msgstr "Modification confirmed"
+
+msgid "oligonucleotide association (read only)"
+msgstr "oligonucleotide association (read only)"
+
+msgid "Association unknown!"
+msgstr "Association unknown!"
+
+msgid "Enter the name of the searched oligonucleotide, or a part of its sequence:"
+msgstr "Enter the name of the searched oligonucleotide, or a part of its sequence:"
+
+msgid "Result"
+msgstr "Result"
+
+msgid "Oligonucleotides found"
+msgstr "Oligonucleotides found"
+
+msgid "Oligonucleotide found"
+msgstr "Oligonucleotide found"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Modify"
+msgstr "Modify"
+
+msgid "m/d/Y"
+msgstr "m/d/Y"
+
+msgid "No result"
+msgstr "No result"
+
+msgid "Search/Help"
+msgstr "Search/Help"
+
+msgid "Notes visible?"
+msgstr "Notes visible?"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "Associations visible?"
+msgstr "Associations visible?"
+
+msgid "Show barcode?"
+msgstr "Show barcode?"
+
+msgid "Search details"
+msgstr "Search details"
+
+msgid "Place"
+msgstr "Place"
+
+msgid "Length"
+msgstr "Length"
+
+msgid "Mass"
+msgstr "Mass"
+
+msgid "New"
+msgstr "New"
+
+msgid "To add one new oligonucleotide click"
+msgstr "To add one new oligonucleotide click"
+
+msgid "To add new oligonucleotides click"
+msgstr "To add new oligonucleotides click"
+
+msgid "To annotate a new oligonucleotide association click"
+msgstr "To annotate a new oligonucleotide association click"
+
+msgid "To access to the administration interface click"
+msgstr "To access to the administration interface click"
+
+msgid "You have selected:"
+msgstr "You have selected:"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "You have selected more than two oligonuleotides!"
+msgstr "You have selected more than two oligonuleotides!"
+
+msgid "Select two oligonucleotides to be associated"
+msgstr "Select two oligonucleotides to be associated"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Association"
+msgstr "Association"
+
+msgid "already exists"
+msgstr "already exists"
+
+msgid "with the following comment:"
+msgstr "with the following comment:"
+
+msgid "Enter association comment"
+msgstr "Enter association comment"
+
+msgid "Association added"
+msgstr "Association added"
+
+msgid "New association"
+msgstr "New association"
+
+msgid "There is no oligo!"
+msgstr "There is no oligo!"
+
+msgid "New oligonucleotides"
+msgstr "New oligonucleotides"
+
+msgid "For each new oligonucleotide indicate successively (one line per nucleotide):"
+msgstr "For each new oligonucleotide indicate successively (one line per nucleotide):"
+
+msgid "name ; sequence ; date {mm/dd/yyyy} ; box ; rank [ ; [ freezer ] ; comment ]"
+msgstr "name ; sequence ; date {mm/dd/yyyy} ; box ; rank [ ; [ freezer ] ; comment ]"
+
+msgid "Freezer"
+msgstr "Freezer"
+
+msgid "Last place occupied: box"
+msgstr "Last place occupied: box"
+
+msgid "rank"
+msgstr "rank"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "The oligonucleotide already exists in box"
+msgstr "The oligonucleotide already exists in box"
+
+msgid "A oligonucleotide was entered several times"
+msgstr "A oligonucleotide was entered several times"
+
+msgid "The same sequence was entered several times"
+msgstr "The same sequence was entered several times"
+
+msgid "The same place is used several times"
+msgstr "The same place is used several times"
+
+msgid "association"
+msgstr "association"
+
+msgid "No valid data!"
+msgstr "No valid data!"
+
+msgid "Finish"
+msgstr "Finish"
+
+msgid "Oligo"
+msgstr "Oligo"
+
+msgid "added"
+msgstr "added"
+
+msgid "Oligonucleotide from database"
+msgstr "Oligonucleotide from database"
+
+msgid "New oligonucleotide associations"
+msgstr "New oligonucleotide associations"
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Validate"
+msgstr "Validate"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Don&#39;t forget to validate your selection before back"
+msgstr "Don&#39;t forget to validate your selection before back"
+
+msgid "Inform all following information:"
+msgstr "Inform all following information:"
+
+msgid "details"
+msgstr "details"
+
+msgid "bases"
+msgstr "bases"
+
+msgid "Associated oligonucleotides"
+msgstr "Associated oligonucleotides"
+
+msgid "Associated oligonucleotide"
+msgstr "Associated oligonucleotide"
+
+msgid "needed information"
+msgstr "needed information"
+
