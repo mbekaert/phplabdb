@@ -1,0 +1,31 @@
+#Alias /phplabdb /var/www/phplabdb
+
+#<Directory "/var/www/phplabdb">
+#   SSLVerifyClient require
+#   SSLVerifyDepth 2
+
+<files ~ "\.inc$">
+  Order allow,deny
+  Deny from all
+  Satisfy All
+</files>
+
+RewriteEngine on
+
+RewriteBase /phplabdb
+
+RewriteRule ^index              index.php               [L]
+RewriteRule ^login              login.php               [L]
+RewriteRule ^logout             logout.php              [L]
+RewriteRule ^my                 my.php                  [L]
+RewriteRule ^profile            profile.php             [L]
+RewriteRule ^register           register.php            [L]
+RewriteRule ^lost               lost.php                [L]
+RewriteRule ^activate/([^\/]+)$ activate.php?activate=$1 [L]
+RewriteRule ^about              about.php               [L]
+RewriteRule ^website            website.php             [L]
+RewriteRule ^users/([A-Za-z0-9\.\_/]+)$ users.php?user=$1 [L]
+RewriteRule ^users              users.php               [L]
+RewriteRule ^([A-Za-z][0-9]+\.[0-9]+)$ search.php?query=$1 [L]
+RewriteRule ^search.xml         search.php?xml=true     [L,T=application/opensearchdescription+xml]
+RewriteRule ^search/([^\/]*)$  search.php?search=$1     [L]

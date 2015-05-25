@@ -1,0 +1,17 @@
+<files ~ "\.inc$">
+  Order allow,deny
+  Deny from all
+  Satisfy All
+</files>
+
+RewriteEngine on
+
+RewriteBase /phplabdb/oligoml
+
+RewriteRule ^index              index.php               [L]
+RewriteRule ^search             search.php              [L]
+RewriteRule ^semacode/(.+)$     semacode.php?semacode=$1 [L,T=image/png]
+RewriteRule ^add                add.php                 [L]
+RewriteRule ^(oligo|pair)/([OP][0-9]+\.[0-9]+)$ detail.php?$1=$2 [L]
+RewriteRule ^(edit|xml|semacode|tag)/([OP][0-9]+\.[0-9]+)$ $1.php?$1=$2 [L]
+

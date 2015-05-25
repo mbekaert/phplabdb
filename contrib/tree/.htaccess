@@ -1,0 +1,17 @@
+<files ~ "\.inc$">
+  Order allow,deny
+  Deny from all
+  Satisfy All
+</files>
+
+RewriteEngine on
+
+RewriteBase /phplabdb/tree
+
+RewriteRule ^index              index.php               [L]
+RewriteRule ^search             search.php              [L]
+RewriteRule ^(tree|species)/edit/([^/]+)$ $1.php?edit=$2 [L]
+RewriteRule ^(tree|species)/(add|search)$ $1.php?$2=true [L]
+RewriteRule ^(tree|species)/([^/]+)$ $1.php?$1=$2       [L]
+RewriteRule ^(tree|species)     $1.php                  [L]
+

@@ -1,0 +1,19 @@
+<kronos>
+<project>
+	<name>phpLabDB</name>
+	<icon>favicon.ico</icon>
+	<description />
+</project>
+<site>
+	<name>phpLabDB</name>
+	<version>1.201</version>
+	<language>php/html</language>
+	<description />
+</site>
+<database>
+	<name>phplabdb</name>
+	<version>2.3</version>
+	<language>sql</language>
+	<description />
+</database>
+</kronos>
